@@ -14,3 +14,5 @@ the workflow.
 1. Making a branch called `add-profile` and adding a new file on it
 2. Writing commit messages that actually describe what I changed (instead of just "update")
 3. Opening a pull request and merging it into `main` myself
+
+## Completed the HW
